@@ -18,17 +18,17 @@ Server: Uvicorn
 
 ⚙️ Setup and Installation
 
-1. Clone the Repository
-git clone https://github.com/ThomasBaby27/Trade-Opportunities-API.git
+1. Clone the Repository: 
+git clone https://github.com/ThomasBaby27/Trade-Opportunities-API.git, 
 cd appscrip
-2. Create Virtual Environment
-python -m venv env
-Windows: env\Scripts\activate
+2. Create Virtual Environment: 
+python -m venv env, 
+Windows: env\Scripts\activate, 
 Mac/Linux: source env/bin/activate
-3. Install Dependencies
+3. Install Dependencies: 
 pip install -r requirements.txt
-4. Environment Variables
-GEMINI_API_KEY=enter your api key
+4. Environment Variables: 
+GEMINI_API_KEY=enter your api key, 
 SECRET_KEY=appscrip_task_2026
 
 
