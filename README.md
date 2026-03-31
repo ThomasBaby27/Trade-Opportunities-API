@@ -9,10 +9,10 @@ Markdown Output: Returns raw .md content for easy saving and documentation.
 
 🛠️ Tech Stack
 
-Language: Python (3.12+)
-Framework: FastAPI
-AI SDK: google-generativeai
-Security: PyJWT for token handling
+Language: Python (3.12+), 
+Framework: FastAPI, 
+AI SDK: google-generativeai, 
+Security: PyJWT for token handling, 
 Server: Uvicorn
 
 
